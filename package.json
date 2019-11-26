@@ -1,0 +1,20 @@
+{
+  "name": "hope-chess",
+  "version": "1.0.0",
+  "description": "chess app for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chess"
+  ],
+  "author": "Sam Cunningham",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cowsay": "^1.4.0",
+    "express": "^4.17.1"
+  }
+}
